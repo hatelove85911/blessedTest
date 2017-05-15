@@ -1,0 +1,17 @@
+{
+  "name": "blessedTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "blessed": "^0.1.81",
+    "get-json": "^0.0.3",
+    "react": "0.14.0",
+    "react-blessed": "^0.1.8",
+    "request": "^2.81.0",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
